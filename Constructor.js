@@ -1,4 +1,4 @@
-// It is a special metod in the class 
+// It is a special method in the class 
 // Initialize the propertise of the class
 
 // while calling constructor we use classname as the constructtor name
